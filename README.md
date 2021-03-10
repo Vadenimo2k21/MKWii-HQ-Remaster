@@ -1,2 +1,2 @@
-# MKWii HQ Remaster - Releases
+# MKWii HQ Remaster - Public Releases
 Mario Kart Wii HQ Remaster Repository
